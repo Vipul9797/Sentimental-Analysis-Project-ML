@@ -8,4 +8,5 @@ Sentimental Analysis using Bernoulli and Multinomial Navie Bayes.
 
 Libraries used are sklearn.pipeline  to import and make_pipeline, and sklearn.feature_extraction.text to import TfidfVectorizer.
 
-# Conclusion:- The highest accurracy score is 0.9508 using BernoulliNB with Tfid Vectorizer by making a pipeline as compared to other techniques.
+# Conclusion:- 
+The highest accurracy score is 0.9508 using BernoulliNB with Tfid Vectorizer by making a pipeline as compared to other techniques.
